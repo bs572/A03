@@ -12,7 +12,7 @@ JetBrains WebStorm is now ready for use.
 
 Part 2 : Glossary 
 
-**Branch** : A branch is a line of development. Each branch has a different version of the project code. Branches can be merged once development on a feature has been finished.
+**Branch** : A branch is a line of development. Each branch has a different version of the project code. Branches can be merged once development on a feature has been finished. \n
 **Clone** : A clone is an exact copy of a repository.
 **Commit** : Updating a branch with new code changes. When files in a project are updated, and these files are sent to the branch, this is called a commit.
 **Fetch** : This gets the head reference of a branch, to find out which files are missing from the local machine, and gets them.
